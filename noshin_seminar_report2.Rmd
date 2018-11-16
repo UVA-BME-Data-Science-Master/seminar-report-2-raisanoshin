@@ -1,0 +1,32 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+###Raisa Noshin
+
+#Mechanisms of cell-to-cell spread by *Listeria monocytogenes*
+
+
+##Dr. John H. Brumell
+###Department of Molecular Genetics and Institute of Medical Science
+####University of Toronto
+
+#####November 14th, 2018
+#####4-5pm
+
+
+The topic of this research presentation was about *Listeria monocytogenes*, a bacteria that infiltrates the body typically through the gut, but can also infect the liver, brain, placenta, and send the body into septic shock. Current limitations in research involve modeling only early infections without noting cell-to-cell spreading mechanisms and interactions over time, as well as considering multiple fates for pathogens (heterogeneity in both the pathogen and host cells). 
+
+The research problem that this research sought to address was to investigate the less-known spreading mechanism of the bateria. Preliminarily, from previous research, it was established that listeria uses its properties to get itself into the cell, where it escapes its vacuole in the cytosol and activates its ActA to harness the force of actin polymerization to hit the cell membrane and use a piece of it to fool the immune system. 
+
+Through their experiment, Dr. Brumell's lab was able to identify the InIF-vimentin biomarker for listeria and visualize it moving through its environment through video. the ActA expression on Listeria is what contributes to its binding of Arp 2/3 and VASP, further recruiting host actin, allowing the bacteria to be motile. In these videos, it is clear that a "comet tail" appears behind listeria, projecting it across the frame towards the cell membrane, after which a distinct change occurs in the tail into a "protrusion" that also disappears right after the cell membrane is ruptured. As per the video, it was evident that the composition of the protrusion differed from the comet tail in terms of actin components. Through the use of imaging and other method, such as plaque assays, PI assays, and infection focus assays, it was found that ActA creates the comet tail, while rho GTPase is activated to add diaphanous formins to create the protrusion structure, which explains the unbranched filaments of actin present in protrusions. This finding implies that the protrusion must be released before it leaves cells. As another aspect, it was found that Calcium ions play a role in managing membrane damage, as many membrane repair pathways rely on calcium. Although damage is still substantial with the presence of Listeria and calcium, there is a massive upscale in damage in the absence of calcium.
+
+The next experimental aspect of the research problem was to observe the potential impact of listeriolysin O (LLO), a major virulence factor in Listeria, on the cell. It was found that LLO is the mechanism through which Listeria induces membrane damage in the cell in addition to rupturing it through its motility. It was found that when LLO is knocked out, there is almost no damage to the membrane in the presence of Listeria. From this, the researchers concluded that LLO is present when listeria is in its protrusion stage, as it degrades in the cytosol and can only accumulate in the protrusion. 
+
+It was also observed that LLO damage leads to phosphatidylserine (PS) expression on the membrane. From this, it was observed that apoptotic mimicry is used by Listeria to trick the body's TIM-4 cells into absorbing the cell, showing that the immune system is in part hijacked by Listeria to help spread damage. Future directions of this project involve exploring the potential negative effects of efferocytosis in the presence of Listeria, and also looking at ATG proteins in the same way. 
+
+Two questions I want to ask to Dr. Brumell are: 
+1. How do you see these findings impacting future treatment methods for Listeria infections?
+
+2. What led you to choose the ATG pathway for future direction?
